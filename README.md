@@ -2,7 +2,7 @@
 
 ## Alpha Interface
 
-![Interface](https://github.com/vietvulong/Vue-Canvas-DiceGame.git/blob/main/screenshots/game-field.png)
+![Interface](https://github.com/vietvulong/Vue-Canvas-DiceGame/blob/main/screenshots/game-field.png)
 
 ## Project setup
 ```
